@@ -5,3 +5,5 @@ uGet is a developing educational website aimed for university students who would
 This website is inspired on Udemy, Nootas and Quieroapuntes trying to get the best of each of them with a personal flavor for online classes. 
 
 There is still a lot to work on, like responsiveness, so please be patient as I am working on it.
+
+Done in Node.js and React 
